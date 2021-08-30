@@ -383,73 +383,7 @@ body{
 a:active {
   color: red;
 }
-a:hover {
-  color: #1380A1;
-  text-decoration: underline;
-}
-.ul-div1 a:hover {
-  color: #1380A1;
-  text-decoration: underline;
-}
-.nav1 a:hover {
-  color: #343434;
-  text-decoration: underline;
-  text-decoration-color: red;
-}
-.nav2 a:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: white;
-}
-.nav3 a:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: red;
-}
-.nav4 a:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: white;
-}
-.a-copyright1:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: white;
-}
-.para3-s1 a:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: white;
-}
-.para3-s2 a:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: white;
-}
-.para3-s3 a:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: white;
-}
-.para3-s4 a:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: white;
-}
-.para3-s5 a:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: white;
-}
-.para3-s6 a:hover {
-  color: #fff;
-  text-decoration: underline;
-  text-decoration-color: white;
-}
-.seg2right a:hover {
-  color: #1380A1;
-  text-decoration: underline;
-}
+
 .world:link {
   color: #fff;
   text-decoration: underline;
@@ -464,8 +398,3 @@ a:hover {
   color: #222222;
   font-weight: 500;
 }
-/*.seg2 p:hover{
-  background-color: blue;
-
-}
-*/
